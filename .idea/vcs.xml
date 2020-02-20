@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AboutMe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidTrivia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Basic-Video-Call-master/Group-Video/CustomFanController" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Basic-Video-Call-master/Group-Video/MiniPaint" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ColorMyViews" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DessertPusher" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DevBytes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DiceRoller" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EggTimer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GDGFinder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GuessIt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Keshitang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MarsRealEstate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SleepTracker" vcs="Git" />
+  </component>
+</project>
